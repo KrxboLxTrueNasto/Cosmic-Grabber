@@ -1,6 +1,5 @@
 # [🔥 Cosmic Grabber](https://t.me/r3z0t0)
  Advanced grabber that grabs browser passwords, cookies, and Discord tokens with the computer information.<br>
- Our Telegram Channel: [https://t.me/r3z0t0](https://t.me/r3z0t0)
 
 # I will update this repo for times!.
 
